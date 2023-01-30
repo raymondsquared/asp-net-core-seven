@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreSeven.WebApi", "AspNetCoreSeven.WebApi\AspNetCoreSeven.WebApi.csproj", "{FA8D86E3-BE0B-4128-BE5F-5CA804BCE2E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreSeven.WebApi.Test", "AspNetCoreSeven.WebApi.Test\AspNetCoreSeven.WebApi.Test.csproj", "{D4537598-E7D4-441F-A8D0-10DCDFEE0577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA8D86E3-BE0B-4128-BE5F-5CA804BCE2E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8D86E3-BE0B-4128-BE5F-5CA804BCE2E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8D86E3-BE0B-4128-BE5F-5CA804BCE2E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8D86E3-BE0B-4128-BE5F-5CA804BCE2E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4537598-E7D4-441F-A8D0-10DCDFEE0577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4537598-E7D4-441F-A8D0-10DCDFEE0577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4537598-E7D4-441F-A8D0-10DCDFEE0577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4537598-E7D4-441F-A8D0-10DCDFEE0577}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
